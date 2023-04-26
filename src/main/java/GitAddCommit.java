@@ -1,2 +1,4 @@
-public class GitAddCommit {
+public class GitAddCommit
+
+{
 }
